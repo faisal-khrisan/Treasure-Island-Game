@@ -3,8 +3,8 @@ A simple, text-based adventure game where you navigate choices to find hidden tr
 
 # Features:
 
-1- Interactive storytelling
-2- Multiple outcomes
-3- Easy-to-follow gameplay
+* 1- Interactive storytelling
+* 2- Multiple outcomes
+* 3- Easy-to-follow gameplay
 # How to Play:
 Follow the prompts, type your choices (R/L, W/S, etc.), and see if you can find the treasure!
